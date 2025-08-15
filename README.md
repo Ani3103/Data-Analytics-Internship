@@ -39,6 +39,11 @@ The dashboard provides **real-time task management insights** by combining:
 
 
 ## 📂 File Structure
-<img width="1811" height="705" alt="image" src="https://github.com/user-attachments/assets/d145e968-df67-4a43-a840-dd03e5745613" /> #**Dataset**
+**Dataset screenshot**
+<img width="1811" height="705" alt="image" src="https://github.com/user-attachments/assets/d145e968-df67-4a43-a840-dd03e5745613" /> 
+**Dashboard Screenshots**
+<img width="1845" height="736" alt="image" src="https://github.com/user-attachments/assets/2a27dae6-4144-410b-bc39-a2e071e6d936" />
+<img width="1418" height="437" alt="image" src="https://github.com/user-attachments/assets/280a86d4-d20d-4c3a-b7ae-5937a793ec69" />
+<img width="1231" height="740" alt="image" src="https://github.com/user-attachments/assets/b7abcaf7-2113-4809-816e-8e8c373a69ab" />
 
 
