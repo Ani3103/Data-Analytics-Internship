@@ -7,6 +7,7 @@ The dashboard provides **real-time task management insights** by combining:
 - **SQL** for querying and preparing the data from relational databases.
 - **Excel** for creating interactive visualizations and KPI tracking.
 
+*Note: Original work was done in Excel, here I’ve also reconstructed the SQL queries that would typically be used to generate such datasets from a relational database*
 
 
 
