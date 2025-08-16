@@ -1,7 +1,7 @@
 # Task Management Dashboard – SQL + Excel Integration
 
 ## 📌 Overview
-This project is an **interactive Excel dashboard** developed during my internship at *NoQs Digital*, powered by **SQL-based data extraction and transformation**.
+This project is an **interactive Excel dashboard** developed during my internship at *NoQs Digital*, powered by *SQL-based data extraction and transformation*.
 
 The dashboard provides **real-time task management insights** by combining:
 - **SQL** for querying and preparing the data from relational databases.
@@ -13,7 +13,7 @@ The dashboard provides **real-time task management insights** by combining:
 
 ## 🎯 Key Features
 - **SQL-Powered Data Pipeline:**  
-  Extracted task and project data from the company’s SQL database using custom queries.
+  To Extract task and project data from the SQL database using custom queries.
 - **Data Cleaning & Transformation in SQL:**  
   Joins, filtering, aggregation, and calculated columns created at the database level.
 - **Dynamic Excel Dashboard:**  
