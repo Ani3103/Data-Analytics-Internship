@@ -12,7 +12,7 @@ The dashboard provides **real-time task management insights** by combining:
 
 
 ## 🎯 Key Features
-- **SQL-Powered Data Pipeline:**  
+- **Managed and analyzed task data using Excel, recreated queries and reports in SQL for deeper practice:**  
   To Extract task and project data from the SQL database using custom queries.
 - **Data Cleaning & Transformation in SQL:**  
   Joins, filtering, aggregation, and calculated columns created at the database level.
